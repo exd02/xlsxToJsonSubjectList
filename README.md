@@ -23,10 +23,18 @@ Bibliotecas Python:
 3. Execute a interface gráfica:  
         python main.py  
 4. Na janela que abrir:  
-    - Clique em **Upload** e selecione uma ou mais planilhas .xlsx (para selecionar várias planilhas basta ir clicando de uma em uma com o CTRL pressionado).  
+    - Clique em **Upload** e selecione uma ou mais planilhas .xlsx (para selecionar várias planilhas basta ir clicando de uma em uma com o CTRL pressionado).
     - Clique em **Carregar** para passar à configuração.  
     - Ajuste **Cabeçalhos**, **Linha primeiro Aluno** e **Linha último Aluno** para cada planilha.  
     - Clique em **Carregar dados em JSON**.  
 5. O arquivo **AlunosEmRecuperacao.json** será gerado e salvo na raiz do projeto, contendo o mapeamento de cada aluno para as disciplinas reprovadas.
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/3bf244b3-cbc8-4c3c-8549-c9f3403c78f1" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/dff6d1e2-a71a-4896-9065-67acc175dada" />
+</p>
 
 ---
