@@ -91,10 +91,3 @@ Bibliotecas Python:
 <p align="center">
   <img src="https://github.com/user-attachments/assets/dff6d1e2-a71a-4896-9065-67acc175dada" />
 </p>
-
-Exemplo de planilha
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/f9755471-0492-41d1-b248-f787cfc31555" />
-</p>
-
----
